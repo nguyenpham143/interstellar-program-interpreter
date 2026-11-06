@@ -1,2 +1,21 @@
-.vscode
-__pycache__
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
